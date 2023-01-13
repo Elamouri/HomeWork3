@@ -11,5 +11,5 @@ Notes:
 make new branch name Newmain
 </li>
 <li>
-add the lost file using rebase into Newmain from thelostwork bramch</li>
+add the lost file using rebase into Newmain from thelostwork branch</li>
 </ol>
