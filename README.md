@@ -1,2 +1,2 @@
-# HomeWork3
-Homework about rebase and revert with example. 
+## HomeWork3
+Examples about revert and rebase  
